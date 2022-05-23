@@ -15,7 +15,7 @@
 * Create filghts/urls.py
 
 ### Add data into table
-* Use object defined from ``models.py` to add `Flight` and `Airport` inside shell
+* Use object defined from `models.py` to add `Flight` and `Airport` inside shell
 * Create `templates/flights/*.html` to design the web page.
 * Launch the server from ```python manage.py runserver``` and type `localhost:8000/flights` in the browser
 
